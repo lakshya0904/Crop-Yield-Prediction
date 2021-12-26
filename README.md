@@ -23,7 +23,7 @@ There are 4 functionalities:
 <hr>
 
 ### Approach
-The architecture of the MLDL-Ne: ![image description](https://github.com/lakshya0904/Crop-Yield-Prediction/blob/main/MLDL-Net.png)
+The architecture of the MLDL-Net: ![image description](https://github.com/lakshya0904/Crop-Yield-Prediction/blob/main/MLDL-Net_arch.png)
 
 <hr>
 
